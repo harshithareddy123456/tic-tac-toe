@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(226, 218, 231);
+}
+body{
+  background-color: antiquewhite;
+}
+.row1{
+  height: 100px;
+  width: 100px;
+  background-color: aliceblue;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 1px;
+  cursor: pointer;
+}
+
+.button{
+  margin-top: 20px;
+    height: 50px;
+    width: 100px;
+    background-color: black;
+}
+
